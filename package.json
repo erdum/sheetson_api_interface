@@ -1,0 +1,24 @@
+{
+  "name": "sheetson_api_interface",
+  "version": "1.0.0",
+  "description": "Read write update and delete google sheets directly from the code with just total 6 methods",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/erdum/sheetson_api_interface.git"
+  },
+  "keywords": [
+    "google sheets",
+    "sheetson api",
+    "google sheets api"
+  ],
+  "author": "Erdum",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/erdum/sheetson_api_interface/issues"
+  },
+  "homepage": "https://github.com/erdum/sheetson_api_interface#readme"
+}
